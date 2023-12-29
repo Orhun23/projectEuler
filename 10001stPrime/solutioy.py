@@ -13,3 +13,4 @@ while k <=10001 :
         k+=1
     print(isPrime(num))
     num+=1
+    #this
