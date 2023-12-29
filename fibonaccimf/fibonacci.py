@@ -15,4 +15,4 @@ if nterms > 0 :
         count = count + 1
 
 print("sum is", z)
-#work?
+#work? jaman ins

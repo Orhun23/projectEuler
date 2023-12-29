@@ -23,3 +23,4 @@ def find_nth_prime(n):
 
 print(find_nth_prime(10001))
 #will
+# als je dit leest heb je geen leven ngl
