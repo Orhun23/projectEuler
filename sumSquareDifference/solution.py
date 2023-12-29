@@ -18,4 +18,3 @@ print(squared(100))
 
 x = squared(100) - square(100)
 print(x)
-#cool
