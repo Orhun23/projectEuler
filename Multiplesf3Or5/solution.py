@@ -21,3 +21,4 @@ t = sum(w)
 
 print("sum is ", t)
 #awards eerlijk
+#wtf main
