@@ -20,5 +20,5 @@ w = set(result).union(result1) #important step
 t = sum(w)
 
 print("sum is ", t)
-#awards eerlijk
+#awards eerljk
 #wtf mai
