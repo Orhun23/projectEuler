@@ -14,6 +14,7 @@ def sieve_of_eratosthenes(limit):
             primes.append(number)
 
     return primes
+#kevser was hier 
 
 limit = 2000000
 prime_numbers = sieve_of_eratosthenes(limit)
